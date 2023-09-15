@@ -1,4 +1,4 @@
-# Factors-influencing-to-the-SAT-results-of-public-schools-in-New-York 
+# Factors influencing to the SAT results of public schools in New York 
 This portfolio project showcases my proficiency in handling real-world datasets, conducting thorough and insightful analyses, and effectively communicating valuable findings.
 
 **Project Overview**
